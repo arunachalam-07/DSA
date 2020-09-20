@@ -1,0 +1,19 @@
+Recursion is calling the function again and again untill condition is satisfied.
+
+There are types of recursion
+1.Tail Recursion
+2.Head Recursion
+3.Tree Recursion
+4.Indirect Recursion
+5.Nested Recursion
+
+during every function call recursion creates a activation record in memory once that function call ends it's work the activation record is erased from stack
+
+runtime efficiency is based on number of calls
+
+Space Efficiency is based on height of stack tree and number of branches in that trees
+
+while comparing loops vs recursion loops are better than recursion   because loops take one unit of time while recursion takes n unit of time
+
+some time recursion can be converted into loops but all the times it won't happen
+
