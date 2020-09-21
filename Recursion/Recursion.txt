@@ -17,3 +17,6 @@ while comparing loops vs recursion loops are better than recursion   because loo
 
 some time recursion can be converted into loops but all the times it won't happen
 
+code will present in code folder
+
+short notes present in note folder
